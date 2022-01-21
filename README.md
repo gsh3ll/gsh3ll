@@ -1,4 +1,6 @@
-🇨🇳 Nick: 「gsh3ll」  |  🚀 Blog: https://gsh3ll.top
+🇨🇳 Nick: 「gsh3ll」
+
+🚀 Blog: https://gsh3ll.top
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsh3ll&theme=nord_dark" align="center"/>
 
