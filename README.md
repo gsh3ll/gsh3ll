@@ -1,3 +1,5 @@
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsh3ll&theme=nord_dark" align="right"/>
+
 🇨🇳 ABOUT ME
 
 🧑🏻‍💻 Nick: 
@@ -12,7 +14,7 @@
 
 「Pet, Hacker」
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsh3ll&theme=nord_dark" align="right"/>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=gsh3ll&theme=nord&row=1&column=9" align="center"/>
 
