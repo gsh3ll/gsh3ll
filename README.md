@@ -2,9 +2,13 @@
 
 🇨🇳 ABOUT ME
 
-🧑🏻‍💻 Name: 「gsh3ll」
+🧑🏻‍💻 Nick: 
 
-🚀 Blog: 「https://gsh3ll.top/」
+「gsh3ll」
+
+🚀 Blog: 
+
+「https://gsh3ll.top/」
 
 💖 Favorite: 「Pet, Hacker」
 
