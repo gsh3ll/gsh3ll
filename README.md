@@ -8,8 +8,14 @@
 
 🚀 Blog: 
 
-「https://gsh3ll.top/」
+https://gsh3ll.top
 
-💖 Favorite: 「Pet, Hacker」
+💖 Favorite: 
+
+「Pet, Hacker」
+
+<img src="https://github-profile-trophy.vercel.app/?username=gsh3ll&theme=nord&row=3&column=3" align="right"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gsh3ll&theme=radical&count_private=true&show_icons=true&line_height=30"/>
 
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=gsh3ll&theme=radical) 
