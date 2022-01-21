@@ -2,19 +2,13 @@
 
 🇨🇳 ABOUT ME
 
-🧑🏻‍💻 Nick: 
+🧑🏻‍💻 Nick: 「gsh3ll」
 
-「gsh3ll」
+🚀 Blog: 「https://gsh3ll.top」
 
-🚀 Blog: 
+💖 Favorite: 「Pet, Hacker」
 
-https://gsh3ll.top
-
-💖 Favorite: 
-
-「Pet, Hacker」
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsh3ll&theme=nord_dark" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsh3ll&theme=nord_dark" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=gsh3ll&theme=nord_dark&row=1&column=9" />
 
