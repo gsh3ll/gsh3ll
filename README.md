@@ -1,4 +1,4 @@
-🇨🇳 Nick: 「gsh3ll」
+CN Nick: 「gsh3ll」
 
 🚀 Blog: https://gsh3ll.top
 
